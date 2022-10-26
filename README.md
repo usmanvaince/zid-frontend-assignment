@@ -10,15 +10,8 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+#### Note
 ```
-npm run build
+As stripe is not available in Pakistan, although I have worked a lot with stripe on both front-end and back-end 
+but I can't share the api keys. So I have not integrated the stripe. However, if we have to work on the real project we can easily integrate stripe elements into our forms.
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
